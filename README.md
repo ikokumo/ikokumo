@@ -6,8 +6,8 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on developing:
-  - Weg2De - A Relocation and Online language School
-  - ABH Advisor - An Application that guides you on navigating the different foreign offices in Germany.
+  - Weg2De - A Relocation Company with an Online Academy - Tools:  HTML, CSS, Javascript, PHP, Moodle
+  - ABH Advisor - An Application that guides you on navigating the different foreign offices in Germany - Tools: HTML, CSS, JS, Node.js
 - 🌱 I’m currently learning for CCNA, Microsoft 365 and Azure Administrator
 - 👯 I’m looking to collaborate on IT-Projects
 - 🤔 I’m looking for help with anything you can help with :D
