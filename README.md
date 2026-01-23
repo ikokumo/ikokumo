@@ -6,8 +6,7 @@
 Here are some ideas to get you started:-->
 - 🌱 I’m currently learning for CCNA, LFCS, Microsoft 365 and Azure Administrator
 - 👯 I’m looking to collaborate on IT-Projects
-- 💬 Ask me about Cisco Networking, Virtualisation, Moodle Administration, Linux, Azure Networking, Running an Online Business
-- 📫 How to reach me via e-mail: herrkoker@gmail.com 
+- 💬 Ask me about Cisco Networking, Virtualisation, Moodle Administration, Linux, Azure Networking
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can do a bit of everything :)
 <!--- 🤔 I’m looking for help with anything you can help with :D-->
